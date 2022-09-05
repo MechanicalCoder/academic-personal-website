@@ -1,49 +1,47 @@
 ---
 title: Chandan Sinha
-role: Mechanical Engineering Student
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Graduate Student at Virginia Tech
+bio: My research interests include industrial and space robotics, especially control systems. 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Robotics
+  - Aeronautics and Astronautics
+  - Rocketry
+  - Film-making
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/OrangeDurito
+  # - icon: graduation-cap
+  #   icon_pack: fas
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/MechanicalCoder
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/chandansinha1
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Virginia Tech
+    url: https://www.vt.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    # - course: PhD in Artificial Intelligence
+    #   institution: Stanford University
+    #   year: 2012
+    - course: MS in Mechanical Engineering (RADS Thrust Area)
+      institution: Virginia Tech
+      year: 2021-Present
+    - course: B.Tech in Mechanical Engineering (Hons.)
+      institution: Indian Institute of Technology Hyderabad
+      year: 2017
 email: ""
 superuser: true
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a graduate student at Virginia Tech pursuing my master's in Mechanical Engineering. I am specializing in RADS (Robotics, Autonomous, and Dynamical Systems) thrust area. My primary interest lies in Guidance, Navigation, and Control of unmanned aerial and space robotic systems. Currently, I am a part of SpaceDrones Lab where I am working on autonomous robotic platforms for On-Orbit Servicing, Assembly, and Manufacturing. My aim is to develop robust system identification technique to facilitate data-driven control system design. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
