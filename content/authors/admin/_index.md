@@ -1,7 +1,8 @@
 ---
 title: Chandan Sinha
 role: Graduate Student at Virginia Tech
-bio: My research interests include industrial and space robotics, especially control systems. 
+bio: My research interests include industrial and space robotics, especially
+  control systems.
 interests:
   - Robotics
   - Aeronautics and Astronautics
@@ -14,9 +15,6 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/OrangeDurito
-  # - icon: graduation-cap
-  #   icon_pack: fas
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/MechanicalCoder
@@ -28,12 +26,9 @@ organizations:
     url: https://www.vt.edu/
 education:
   courses:
-    # - course: PhD in Artificial Intelligence
-    #   institution: Stanford University
-    #   year: 2012
-    - course: MS in Mechanical Engineering (RADS Thrust Area)
+    - course: MS in Mechanical Engineering
       institution: Virginia Tech
-      year: 2021-Present
+      year: 2023
     - course: B.Tech in Mechanical Engineering (Hons.)
       institution: Indian Institute of Technology Hyderabad
       year: 2017
